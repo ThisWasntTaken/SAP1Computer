@@ -1,5 +1,4 @@
 # SAP1Computer
-<<<<<<< HEAD
 Simple As Possible - 1 Computer in Verilog
 
 To run the program, create files for each module and type the command
@@ -13,6 +12,3 @@ The command
 a.out
 ```
 gives the output.
-=======
-Simple As Possible - 1 Computer in Verilog.
->>>>>>> d049707899c0287911730d162f01cc60845913f0
